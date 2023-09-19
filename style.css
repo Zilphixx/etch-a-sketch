@@ -7,9 +7,11 @@
 body {
   margin: 0;
   padding: 0;
+  margin-left: 2rem;
 }
 
 .container {
   width: 480px;
+  height: 480px;
   border: 1px solid black;
 }
