@@ -18,6 +18,10 @@ body {
   padding: 0;
 }
 
+.grids:hover {
+  background-color: lightgray;
+}
+
 #size {
   padding: 5px 20px;
   margin-bottom: 1rem;
